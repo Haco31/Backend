@@ -83,7 +83,7 @@ Requisitos
 
 ## 📸 Evidencia de Despliegue en Azure
 
-Puedes revisar las capturas del panel de control de Azure y los scripts de aprovisionamiento en la carpeta /img.
+Puedes revisar las capturas del panel de control de Azure y los scripts de aprovisionamiento en la carpeta [Capturas Azure](./img).
 
 Status de App Service: [Enlace a captura o archivo]
 Tablas e Índices en Azure SQL: [Enlace a captura o script SQL]
