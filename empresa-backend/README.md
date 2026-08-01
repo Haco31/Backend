@@ -69,8 +69,7 @@ Requisitos
 
 ### Configuración
 
-1. Clona el repositorio:
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+1. Descarga el respositorio.
 
 2. Configura las variables de entorno para la base de datos en src/main/resources/application.properties:
     spring.datasource.url=${AZURE_SQL_CONNECTION_STRING}
