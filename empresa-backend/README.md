@@ -80,7 +80,9 @@ git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/
 3. Compila y ejecuta el proyecto:
    /mvnw spring-boot:run
 
-📸 Evidencia de Despliegue en Azure
+---
+
+## 📸 Evidencia de Despliegue en Azure
 
 Puedes revisar las capturas del panel de control de Azure y los scripts de aprovisionamiento en la carpeta /img.
 
