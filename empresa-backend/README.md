@@ -41,10 +41,10 @@ graph TD
 
 - [x] 5. Seguridad en Aplicaciones Backend: Implementación de mejores prácticas de autenticación, autorización y protección de datos en la nube.
 
+- [x] 6. Contenedores con Azure (Docker & Azure Container Registry)
+
 
 ## Próximos Pasos (Roadmap)
-
-- [ ] 6. Contenedores con Azure (Docker & Azure Container Registry)
 
 - [ ] 7. Azure Kubernetes Service (AKS)
 
